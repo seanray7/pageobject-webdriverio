@@ -1,6 +1,6 @@
 function Page () {
     
-    //this.title = 'Sign In - League Ally';
+    //this.title = 'Sign';
 }
 
 Page.prototype.open = function () {
